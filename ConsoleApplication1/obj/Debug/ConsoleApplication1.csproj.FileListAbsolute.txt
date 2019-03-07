@@ -1,0 +1,79 @@
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ydexse.exe
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ydexse.pdb
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ydexse.exe
+C:\Users\jiagnwubo\Documents\Visual Studio 2008\Projects\Project2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ydexse.pdb
+E:\二维码\ydex\ConsoleApplication1\obj\Debug\ydexse.exe
+E:\二维码\ydex\ConsoleApplication1\obj\Debug\ydexse.pdb
+E:\二维码\ydex\ConsoleApplication1\bin\Debug\ydexse.exe
+E:\二维码\ydex\ConsoleApplication1\bin\Debug\ydexse.pdb
+E:\二维码\ydex\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\二维码\ydex\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+E:\二维码\ydex\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+E:\二维码\ydex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ydexse.exe
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ydexse.pdb
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+E:\二维码\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.exe
+E:\二维码\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.pdb
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\Interop.grproLib.dll
+E:\二维码\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+E:\二维码\C#-Demo\ConsoleApplication1\bin\Debug\Interop.grproLib.dll
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\Interop.grproLib.dll
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ydexse.exe
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ydexse.pdb
+E:\二维码文件\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.exe
+E:\二维码文件\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.pdb
+E:\二维码文件\C#-Demo\ConsoleApplication1\bin\Debug\Interop.grproLib.dll
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+E:\二维码文件\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.exe.config
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\GenerateResource.read.1.tlog
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\GenerateResource.write.1.tlog
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.exe
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\bin\Debug\ydexse.pdb
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\ydexse.exe
+E:\订单平台\011订单交互系统\二维码订单\二维码文件-江伍波\C#-Demo\ConsoleApplication1\obj\Debug\ydexse.pdb
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.exe.config
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ydexse.exe
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ydexse.pdb
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.exe
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.pdb
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+D:\C\电子面单\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.exe.config
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ydexse.exe
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ydexse.pdb
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.exe
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#-Demo\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.pdb
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.exe.config
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.exe
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\bin\Debug\ydexse.pdb
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ydexse.exe
+C:\Users\Administrator\Desktop\C#-Demo\C#-Demo\YUNDA-Demo\ConsoleApplication1\obj\Debug\ydexse.pdb

@@ -1,0 +1,1 @@
+1 直接运行    C#-Demo\ConsoleApplication1\bin\Debug\ydexse.exe 
